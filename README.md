@@ -1,1 +1,2 @@
 # Data-Visualization-Tableau-Project
+In this project, I create visualizations to reveal insights from Kaggle's US Census Demographic data set. I created 7 data visualizations in Tableau that told a story and highlighted patterns asking a series of questions. Tableau worksheets and dashboards I created were a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
