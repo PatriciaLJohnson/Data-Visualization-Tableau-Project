@@ -26,6 +26,8 @@ Analysis of income distribution and its correlation with education levels
 Visualization of population growth and migration patterns
 
 Highlighting disparities and patterns in demographic groups
+
+Repository Structure
 /Data-Visualization-Tableau-Project
 │
 ├── /data
