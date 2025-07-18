@@ -1,4 +1,4 @@
-# Data-Visualization-Tableau-Project
+# US Census Demographic Data Visualization (Tableau)
 In this project, I created data visualizations to reveal insights from Kaggle’s US Census Demographic dataset. Using Tableau, I designed seven visualizations that tell a story and highlight patterns by exploring a series of analytical questions.
 
 The Tableau worksheets and dashboards demonstrate the application of key data visualization concepts, including visual encoding, design principles, and effective communication to convey meaningful insights.
